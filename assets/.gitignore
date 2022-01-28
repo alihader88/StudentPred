@@ -1,4 +1,3 @@
-data/
-original_dataset/
-features/
-models/
+/config.local
+/tmp
+/cache
